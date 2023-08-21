@@ -1,3 +1,3 @@
 # Web-development: React
 
-[Demo](https://zahoruiko.github.io/movies-search-React/)
+[Demo page](https://zahoruiko.github.io/movies-search-React/)
